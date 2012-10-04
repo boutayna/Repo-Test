@@ -1,3 +1,7 @@
 Test GIT :)
 
 J'ai changé ça dans la branche
+
+Test pour un conflit
+
+Modif Angela
